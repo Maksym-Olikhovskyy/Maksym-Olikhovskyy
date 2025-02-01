@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maksym-Olikhovskyy
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning the basics of the IT world
+- 📘 And I’m studying computer engineering
 - ⚡ Fun fact: I have the level 13 town hall in CoC 
 
 <!---
